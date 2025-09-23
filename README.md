@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="sas.html">Data Entry Track</a>
+  <a href="sas.html">Official E-platform</a>
 </p>
 
 
